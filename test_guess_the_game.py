@@ -1,3 +1,9 @@
+
+#Ferdie perez
+#cis256 spring 2026
+#excersice assignment 4
+
+
 from guess_the_word import choose_word, process_guess, word_list
 
 
